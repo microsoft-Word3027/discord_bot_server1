@@ -1,0 +1,16 @@
+<project>
+  <modelVersion>2.0</modelVersion>
+  <name>discord_bot_server1</name>
+ 
+  <repositories>
+    <repository>
+      <id>central</id>
+      <name>discord_bot_server1</name>
+      <layout>default</layout>
+      <url>https://github.com/mylesderiggs/discord_bot_server1</url>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
+  </repositories>
+ 
